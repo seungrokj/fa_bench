@@ -88,7 +88,7 @@ batch_size_list = [
         32,
         ]
 seqlen_list = [
-        1,
+        #1,
         512,
         1024,
         2048,
